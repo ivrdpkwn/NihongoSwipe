@@ -1,0 +1,32 @@
+{
+  "id": "daily_store",
+  "name": "超市",
+  "cards": [
+    {
+      "id": "store_001",
+      "deckId": "daily_store",
+      "cluster": "shopping",
+      "scene": "store",
+      "level": "N5",
+      "promptZh": "请问这个多少钱？",
+      "sentence": "この商品は＿",
+      "answer": "この商品はいくらですか",
+      "acceptedAnswers": ["この商品はいくらですか", "いくらですか"],
+      "imageAsset": "assets/images/placeholder.png",
+      "audioAsset": "assets/audio/placeholder.mp3"
+    },
+    {
+      "id": "store_002",
+      "deckId": "daily_store",
+      "cluster": "checkout",
+      "scene": "store",
+      "level": "N4",
+      "promptZh": "我先用信用卡支付",
+      "sentence": "カードで＿",
+      "answer": "カードで支払います",
+      "acceptedAnswers": ["カードで支払います", "支払います"],
+      "imageAsset": "assets/images/placeholder.png",
+      "audioAsset": "assets/audio/placeholder.mp3"
+    }
+  ]
+}

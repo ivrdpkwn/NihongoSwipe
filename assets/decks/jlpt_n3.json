@@ -1,0 +1,32 @@
+{
+  "id": "jlpt_n3",
+  "name": "JLPT N3",
+  "cards": [
+    {
+      "id": "home_001",
+      "deckId": "jlpt_n3",
+      "cluster": "ice_melting",
+      "scene": "home",
+      "level": "N3",
+      "promptZh": "冰化了",
+      "sentence": "氷が＿",
+      "answer": "氷が溶けた",
+      "acceptedAnswers": ["氷が溶けた", "溶けた", "とけた", "こおりがとけた"],
+      "imageAsset": "assets/images/placeholder.png",
+      "audioAsset": "assets/audio/placeholder.mp3"
+    },
+    {
+      "id": "store_001",
+      "deckId": "jlpt_n3",
+      "cluster": "shopping",
+      "scene": "store",
+      "level": "N5",
+      "promptZh": "请问这个多少钱？",
+      "sentence": "この商品は＿ですか",
+      "answer": "この商品はいくらですか",
+      "acceptedAnswers": ["この商品はいくらですか", "いくらですか", "いくら"],
+      "imageAsset": "assets/images/placeholder.png",
+      "audioAsset": "assets/audio/placeholder.mp3"
+    }
+  ]
+}

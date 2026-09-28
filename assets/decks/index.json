@@ -1,0 +1,23 @@
+[
+  {
+    "id": "daily_home",
+    "name": "日常生活・家里",
+    "category": "日常生活",
+    "description": "家里、天气和日常动作的表达。",
+    "cardIds": ["home_001", "home_002", "home_003"]
+  },
+  {
+    "id": "daily_store",
+    "name": "超市",
+    "category": "日常生活",
+    "description": "超市购物中的常用日语表达。",
+    "cardIds": ["store_001", "store_002"]
+  },
+  {
+    "id": "jlpt_n3",
+    "name": "JLPT N3",
+    "category": "JLPT",
+    "description": "适合中级表达与日常情境。",
+    "cardIds": ["home_001", "store_001"]
+  }
+]
